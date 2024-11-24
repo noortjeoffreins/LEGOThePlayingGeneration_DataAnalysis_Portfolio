@@ -1,6 +1,16 @@
 ## The Playing Generation: A Data Analysis of LEGO's Appeal and Strategy for Engaging Adults
 In this analysis, I explored LEGO’s evolving set portfolio, uncovering how the brand adapts its offerings as fans mature, making LEGO a brand that grows alongside its audience.
 
+### 👩‍💻 **Project Delivarables**
+This repository includes:
+* A comprehensive Main Notebook that serves as the heart of the analysis.
+* Supporting files such as the data dictionary and detailed methodology notebooks.
+* Links to visualizations and insights:
+	- [View Main Notebook](https://github.com/noortjeoffreins/LEGOThePlayingGeneration_DataAnalysis_Portfolio/blob/main/LEGO%20Analysis.ipynb "View Main Notebook")
+	- [See the Full Data Story on Tableau](https://public.tableau.com/app/profile/noortje.offreins/viz/LEGOThePlayingGeneration-EngagingAdults/ThePlayingGeneration?publish=yes "See the Full Data Story on Tableau")
+
+***
+
 ### 📊 **Executive Summary**
 This analysis delves into LEGO’s evolving strategy to engage adult audiences, marked by the introduction of the 18+ label in 2020. The data reveals the rapid growth of the 18+ portfolio, while the label represents a shift in how LEGO addresses "the inner child," reflecting a broader strategy to foster lifetime engagement.
 
@@ -12,14 +22,6 @@ By uncovering these trends, this analysis highlights how LEGO balances nostalgia
 * **300% Portfolio Growth** Age labels 18+ were introduced in 2020, accompanied by a tripled expansion in the set portfolio.
 * **Ownership Characterized** Sets fall into three interest categories, shaped more by personal taste than set size: Niche, Mainstream, and Blockbusters.
 * **Lifetime Engagement Through Momentum** The Star Wars theme demonstrates LEGO’s strategy of offering the same themes across multiple age groups to provide fitting experiences over time.
-
-### 👩‍💻 **Project Delivarables**
-This repository includes:
-* A comprehensive Main Notebook that serves as the heart of the analysis.
-* Supporting files such as the data dictionary and detailed methodology notebooks.
-* Links to visualizations and insights:
-	- [View Main Notebook](https://github.com/noortjeoffreins/LEGOThePlayingGeneration_DataAnalysis_Portfolio/blob/main/LEGO%20Analysis.ipynb "View Main Notebook")
-	- [See the Full Data Story on Tableau](https://public.tableau.com/app/profile/noortje.offreins/viz/LEGOThePlayingGeneration-EngagingAdults/ThePlayingGeneration?publish=yes "See the Full Data Story on Tableau")
 
 ### 💡 **Data Sources**
 This project was conducted as part of the Data Analytics Career Program I'm enrolled in. I independently sourced and prepared the datasets, focusing on cleaning the data to ensure unique sets were characterized by their details, inventory attributes, and retail pricing information. To add depth, I queried and aggregated variables from the second data source, enriching the dataset with metrics like total colors and total minifigs. In the process, I reduced a 60k+ tuple dataset to a streamlined 8k records, ultimately merging them to build a comprehensive dataset.
