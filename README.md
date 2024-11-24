@@ -18,13 +18,13 @@ This repository includes:
 * A comprehensive Main Notebook that serves as the heart of the analysis.
 * Supporting files such as the data dictionary and detailed methodology notebooks.
 * Links to visualizations and insights:
-- [View Main Notebook](https://github.com/noortjeoffreins/LEGOThePlayingGeneration_DataAnalysis_Portfolio/blob/main/LEGO%20Analysis.ipynb "View Main Notebook")
-- [See the Full Data Story on Tableau](https://public.tableau.com/app/profile/noortje.offreins/viz/LEGOThePlayingGeneration-EngagingAdults/ThePlayingGeneration?publish=yes "See the Full Data Story on Tableau")
+	- [View Main Notebook](https://github.com/noortjeoffreins/LEGOThePlayingGeneration_DataAnalysis_Portfolio/blob/main/LEGO%20Analysis.ipynb "View Main Notebook")
+	- [See the Full Data Story on Tableau](https://public.tableau.com/app/profile/noortje.offreins/viz/LEGOThePlayingGeneration-EngagingAdults/ThePlayingGeneration?publish=yes "See the Full Data Story on Tableau")
 
 ### 💡 **Data Sources**
 This project was conducted as part of the Data Analytics Career Program I'm enrolled in. I independently sourced and prepared the datasets, focusing on cleaning the data to ensure unique sets were characterized by their details, inventory attributes, and retail pricing information. To add depth, I queried and aggregated variables from the second data source, enriching the dataset with metrics like total colors and total minifigs. In the process, I reduced a 60k+ tuple dataset to a streamlined 8k records, ultimately merging them to build a comprehensive dataset.
-- [View data source Gdańsk University of Technology](https://doi.org/10.34808/s25h-sx91 "Boiński, T. M., et al. (2023). Data on LEGO set release dates, retail prices, and aftermarket transaction prices (June 2018 - June 2023). Gdańsk University of Technology")
-- [View data source Rebrickable](https://rebrickable.com/downloads/ "LEGO Catalog Database, available from Rebrickable.com")
+* [View data source Gdańsk University of Technology](https://doi.org/10.34808/s25h-sx91 "Boiński, T. M., et al. (2023). Data on LEGO set release dates, retail prices, and aftermarket transaction prices (June 2018 - June 2023). Gdańsk University of Technology")
+* [View data source Rebrickable](https://rebrickable.com/downloads/ "LEGO Catalog Database, available from Rebrickable.com")
 
 ### ⚡️ **Portfolio Highlights**
 Through this project, I demonstrated my ability to balance abstract thinking with creativity, applying both foundational and advanced analytical techniques. I showcased a clear, efficient working style, a sharp ability to uncover meaningful insights, and a talent for data storytelling—turning complex findings into engaging and actionable narratives.
