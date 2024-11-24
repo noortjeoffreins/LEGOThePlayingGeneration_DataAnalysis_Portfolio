@@ -1,7 +1,7 @@
 ## The Playing Generation: A Data Analysis of LEGO's Appeal and Strategy for Engaging Adults
 In this analysis, I explored LEGO’s evolving set portfolio, uncovering how the brand adapts its offerings as fans mature, making LEGO a brand that grows alongside its audience.
 
-[See the Full Data Story on Tableau](https://public.tableau.com/app/profile/noortje.offreins/viz/LEGOThePlayingGeneration-EngagingAdults/ThePlayingGeneration?publish=yes "See the Full Data Story on Tableau")
+[Discover the Full Data Story on Tableau](https://public.tableau.com/app/profile/noortje.offreins/viz/LEGOThePlayingGeneration-EngagingAdults/ThePlayingGeneration?publish=yes "See the Full Data Story on Tableau")
 
 ***
 
